@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(229, 228, 228);
+}
+.banner_pic{
+    max-width: 14%;
+    height: 14%;
+    padding-top: 17px;
+}
+.nav-bar{
+    background-color: white;
+}
+.sub_header{
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+}
+.head_txt ul{
+    list-style: none;
+    display: flex;
+    padding: 0 15px 0 15px;
+}
+.head_txt li{
+    padding: 20px 20px;
+}
+.icons{
+    padding: 19px;
+}
+.head{
+    display: flex;
+}
+.use{
+    width: 18px;
+    padding-right: 10px;
+}
+.pic_first{
+   
+    position: absolute;
+}
+.main_btn{
+    position: relative;
+    display: flex;
+    justify-content:space-between;
+    padding-top: 400px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.car_pic{
+    margin: 39px;
+    position: relative;
+}
+.btn{
+    border: none;
+    background-color: rgb(10, 10, 109);
+    color: white;
+}
+.hudi{
+    background-color: white;
+    padding: 50px;
+    margin-top: 213px;
+}
+.ndai{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.red_txt ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.red_txt li{
+    padding-right: 17px;
+    padding-bottom: 20px;
+}
+.red_ca{
+    width: 1000px;
+    margin-left: 252px;
+}
+.red_un{
+    display: flex;
+    padding-left: 217px;
+}
+.red_un li{
+    list-style: none;  
+}
+.gtxt{
+    padding-right: 80px;
+    color: rgb(3, 3, 118);
+}
+.gtnt{
+    padding-right: 80px;
+}
+.gtnt span{
+    color: rgb(146, 145, 145);
+}
+.gbtn{
+    background-color: rgb(130, 128, 128);
+    color: white;
+    font-size: 13px;
+    border: none;
+}
+.btn1{
+    padding: 15px 50px 15px 50px;
+    margin: 0 13px;
+}
+.btn2{
+    padding: 15px 50px 15px 50px;
+    margin: 0 13px;
+}
+.btn3{
+    padding: 15px 80px 15px 80px;
+    margin: 0 13px;
+}
+.btn4{
+    padding: 15px 90px 15px 90px;
+    margin: 0 13px;
+}
+.butns{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.blue{
+    background-color: rgb(10, 10, 109);
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub_cls{
+    color: white;
+    padding: 50px 0 50px 192px;
+}
+.pic_sect{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.sect{
+    padding: 0 20px;
+}
+.sect span{
+    color: rgb(10, 10, 109);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+.sect h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.service{
+    margin: 90px 0;
+}
+.know{
+    margin: 50px 0;
+}
+.bttn{
+    border: none;
+    background-color: rgb(10, 10, 109);
+    color: white;
+    margin: 0 auto;
+    display: block;
+}
+.sub_csl{
+    color: white;
+    padding: 50px 0 50px 192px;
+}
+.sub_csl h2{
+    font-size: 50px;
+} 
+.first_car{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.first_car img{
+    padding: 0 15px;
+}
+.crt{
+    max-width: 400px;
+}
+.second_car{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.second_car img{
+    padding: 0 15px;
+}
+.news_section{
+    text-align: center;
+    margin-top: 132px;
+}
+.sub_news {
+    background-color: white;
+    margin: 30px 30px;
+    height: 300px;
+    
+}
+.sub_news span{
+    color: rgb(189, 186, 186);
+    padding: 20px;
+}
+.sub_news h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 0 50px 0;
+}
+.newtxt{
+    padding-top: 20px;
+}
+.bunt{
+    border: none;
+    background-color: rgb(10, 10, 109);
+    color: white;
+}
+.footer_section{
+    background-color: black;
+    color: white;
+    margin-top: 90px;
+}
+.sub_footer{
+    display: flex;
+    justify-content: center;
+}
+.hundi{
+    padding-right: 40px;
+}
+.sub_footer img{
+    max-width: 90px;
+    height: 90px;
+    padding-left: 10px;
+}
+.sub_footer span{
+    padding-top: 50px;
+}
+.sub_footer ul{
+    list-style: none;
+    padding: 10px 90px 90px 0;
+}
+.foot_pic img{
+    width: 20px;
+    height: 20px;
+    color: rgb(194, 192, 192);
+    padding-left: 10px;
+    margin-top: 27px;
+}
+.foot_txt{
+    margin-top: 27px;
+}
